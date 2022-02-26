@@ -1,6 +1,6 @@
 import math
 import random
-from tkinter import * # Change "Tkinter" to "tkinter" in Python 3
+from tkinter import * # "tkinter" is the correct syntax in Python 3
 
 # Utility functions
 
